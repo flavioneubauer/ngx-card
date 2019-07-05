@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ihym/ngx-card.svg?branch=master)](https://travis-ci.org/ihym/ngx-card)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ff9f19109dc4c9ba18eb8cd893d67d7)](https://www.codacy.com/app/ihym/ngx-card?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ihym/ngx-card&amp;utm_campaign=Badge_Grade)
 
-Angular 2+ wrapper for [card.js](https://github.com/jessepollak/card) 
+Angular 6+ wrapper for [card.js](https://github.com/jessepollak/card) 
 
 ![card](http://i.imgur.com/qG3TenO.gif) 
  
