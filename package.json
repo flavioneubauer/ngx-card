@@ -1,13 +1,13 @@
 {
   "name": "ngx-card",
-  "version": "0.2.4",
-  "description": "Angular 2+ wrapper for card.js",
+  "version": "1.0.1",
+  "description": "Angular 10+ wrapper for card.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihym/ngx-card.git"
+    "url": "git+https://github.com/flavioneubauer/ngx-card.git"
   },
   "bugs": {
-    "url": "https://github.com/ihym/ngx-card/issues"
+    "url": "https://github.com/flavioneubauer/ngx-card/issues"
   },
   "main": "bundles/ngx-card.umd.js",
   "module": "module.js",

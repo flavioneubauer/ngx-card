@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/flavioneubauer/ngx-card/compare/v0.2.2...v1.0.1) (2020-09-06)
+
+
+### Bug Fixes
+
+* **app:** search for ContentChildren in descendants too ([1c78bd1](https://github.com/flavioneubauer/ngx-card/commit/1c78bd1d4a6718ff448db5e3dd9687fcd6e17132)), closes [#1](https://github.com/flavioneubauer/ngx-card/issues/1)
+
+
+
 <a name="0.2.4"></a>
 ## [0.2.4](https://github.com/ihym/ngx-card/compare/v0.2.3...v0.2.4) (2017-08-22)
 
