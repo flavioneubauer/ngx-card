@@ -1,0 +1,1 @@
+{"version":3,"file":"ngx-card.js","sourceRoot":"","sources":["../temp/inline/ngx-card.ts"],"names":[],"mappings":"AAAA,cAAe,UAAU,CAAC","sourcesContent":["export * from  './module';\n"]}

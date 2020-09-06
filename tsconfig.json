@@ -8,7 +8,7 @@
     "experimentalDecorators": true,
     "baseUrl": ".",
     "stripInternal": true,
-    "outDir": "./node_modules/ngx-card",
+    "outDir": "./lib",
     "rootDir": "./temp/inline",
     "sourceMap": true,
     "inlineSources": true,

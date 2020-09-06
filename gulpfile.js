@@ -20,7 +20,7 @@ var PATHS = {
   spec: 'src/**/*.ts',
   temp: 'temp/',
   tsInline: 'temp/inline/',
-  dist: 'node_modules/ngx-card',
+  dist: './lib',
 };
 
 var inlineTemplatesTask = lazypipe()
